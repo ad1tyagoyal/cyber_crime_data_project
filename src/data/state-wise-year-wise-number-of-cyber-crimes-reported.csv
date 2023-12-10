@@ -1,0 +1,767 @@
+year,states,value,units
+2021,Andhra Pradesh,1875,value in absolute numbers
+2021,Arunachal Pradesh,47,value in absolute numbers
+2021,Assam,4846,value in absolute numbers
+2021,Bihar,1413,value in absolute numbers
+2021,Chhattisgarh,352,value in absolute numbers
+2021,Goa,36,value in absolute numbers
+2021,Gujarat,1536,value in absolute numbers
+2021,Haryana,622,value in absolute numbers
+2021,Himachal Pradesh,70,value in absolute numbers
+2021,Jharkhand,953,value in absolute numbers
+2021,Karnataka,8136,value in absolute numbers
+2021,Kerala,626,value in absolute numbers
+2021,Madhya Pradesh,589,value in absolute numbers
+2021,Maharashtra,5562,value in absolute numbers
+2021,Manipur,67,value in absolute numbers
+2021,Meghalaya,107,value in absolute numbers
+2021,Mizoram,30,value in absolute numbers
+2021,Nagaland,8,value in absolute numbers
+2021,Odisha,2037,value in absolute numbers
+2021,Punjab,551,value in absolute numbers
+2021,Rajasthan,1504,value in absolute numbers
+2021,Sikkim,0,value in absolute numbers
+2021,Tamil Nadu,1076,value in absolute numbers
+2021,Telangana,10303,value in absolute numbers
+2021,Tripura,24,value in absolute numbers
+2021,Uttar Pradesh,8829,value in absolute numbers
+2021,Uttarakhand,718,value in absolute numbers
+2021,West Bengal,513,value in absolute numbers
+2021,All States,52430,value in absolute numbers
+2021,Andaman and Nicobar Islands,8,value in absolute numbers
+2021,Chandigarh,15,value in absolute numbers
+2021,Dadra and Nagar Haveli and Daman and Diu,5,value in absolute numbers
+2021,Delhi,356,value in absolute numbers
+2021,Jammu and Kashmir,154,value in absolute numbers
+2021,Ladakh,5,value in absolute numbers
+2021,Lakshadweep,1,value in absolute numbers
+2021,Puducherry,0,value in absolute numbers
+2021,All UTs,544,value in absolute numbers
+2021,All India,52974,value in absolute numbers
+2020,Andhra Pradesh,1899,value in absolute numbers
+2020,Arunachal Pradesh,30,value in absolute numbers
+2020,Assam,3530,value in absolute numbers
+2020,Bihar,1512,value in absolute numbers
+2020,Chhattisgarh,297,value in absolute numbers
+2020,Goa,40,value in absolute numbers
+2020,Gujarat,1283,value in absolute numbers
+2020,Haryana,656,value in absolute numbers
+2020,Himachal Pradesh,98,value in absolute numbers
+2020,Jharkhand,1204,value in absolute numbers
+2020,Karnataka,10741,value in absolute numbers
+2020,Kerala,426,value in absolute numbers
+2020,Madhya Pradesh,699,value in absolute numbers
+2020,Maharashtra,5496,value in absolute numbers
+2020,Manipur,79,value in absolute numbers
+2020,Meghalaya,142,value in absolute numbers
+2020,Mizoram,13,value in absolute numbers
+2020,Nagaland,8,value in absolute numbers
+2020,Odisha,1931,value in absolute numbers
+2020,Punjab,378,value in absolute numbers
+2020,Rajasthan,1354,value in absolute numbers
+2020,Sikkim,0,value in absolute numbers
+2020,Tamil Nadu,782,value in absolute numbers
+2020,Telangana,5024,value in absolute numbers
+2020,Tripura,34,value in absolute numbers
+2020,Uttar Pradesh,11097,value in absolute numbers
+2020,Uttarakhand,243,value in absolute numbers
+2020,West Bengal,712,value in absolute numbers
+2020,All States,49708,value in absolute numbers
+2020,Andaman and Nicobar Islands,5,value in absolute numbers
+2020,Chandigarh,17,value in absolute numbers
+2020,Dadra and Nagar Haveli and Daman and Diu,3,value in absolute numbers
+2020,Delhi,168,value in absolute numbers
+2020,Jammu and Kashmir,120,value in absolute numbers
+2020,Ladakh,1,value in absolute numbers
+2020,Lakshadweep,3,value in absolute numbers
+2020,Puducherry,10,value in absolute numbers
+2020,All UTs,327,value in absolute numbers
+2020,All India,50035,value in absolute numbers
+2019,Andhra Pradesh,1886,value in absolute numbers
+2019,Arunachal Pradesh,8,value in absolute numbers
+2019,Assam,2231,value in absolute numbers
+2019,Bihar,1050,value in absolute numbers
+2019,Chhattisgarh,175,value in absolute numbers
+2019,Goa,15,value in absolute numbers
+2019,Gujarat,784,value in absolute numbers
+2019,Haryana,564,value in absolute numbers
+2019,Himachal Pradesh,76,value in absolute numbers
+2019,Jharkhand,1095,value in absolute numbers
+2019,Karnataka,12020,value in absolute numbers
+2019,Kerala,307,value in absolute numbers
+2019,Madhya Pradesh,602,value in absolute numbers
+2019,Maharashtra,4967,value in absolute numbers
+2019,Manipur,4,value in absolute numbers
+2019,Meghalaya,89,value in absolute numbers
+2019,Mizoram,8,value in absolute numbers
+2019,Nagaland,2,value in absolute numbers
+2019,Odisha,1485,value in absolute numbers
+2019,Punjab,243,value in absolute numbers
+2019,Rajasthan,1762,value in absolute numbers
+2019,Sikkim,2,value in absolute numbers
+2019,Tamil Nadu,385,value in absolute numbers
+2019,Telangana,2691,value in absolute numbers
+2019,Tripura,20,value in absolute numbers
+2019,Uttar Pradesh,11416,value in absolute numbers
+2019,Uttarakhand,100,value in absolute numbers
+2019,West Bengal,524,value in absolute numbers
+2019,All States,44511,value in absolute numbers
+2019,Andaman and Nicobar Islands,2,value in absolute numbers
+2019,Chandigarh,23,value in absolute numbers
+2019,Dadra and Nagar Haveli and Daman and Diu,3,value in absolute numbers
+2019,Delhi,115,value in absolute numbers
+2019,Jammu and Kashmir,73,value in absolute numbers
+2019,Lakshadweep,4,value in absolute numbers
+2019,Puducherry,4,value in absolute numbers
+2019,All UTs,224,value in absolute numbers
+2019,All India,44735,value in absolute numbers
+2018,Andhra Pradesh,1207,value in absolute numbers
+2018,Arunachal Pradesh,7,value in absolute numbers
+2018,Assam,2022,value in absolute numbers
+2018,Bihar,374,value in absolute numbers
+2018,Chhattisgarh,139,value in absolute numbers
+2018,Goa,29,value in absolute numbers
+2018,Gujarat,702,value in absolute numbers
+2018,Haryana,418,value in absolute numbers
+2018,Himachal Pradesh,69,value in absolute numbers
+2018,Jharkhand,930,value in absolute numbers
+2018,Karnataka,5839,value in absolute numbers
+2018,Kerala,340,value in absolute numbers
+2018,Madhya Pradesh,740,value in absolute numbers
+2018,Maharashtra,3511,value in absolute numbers
+2018,Manipur,29,value in absolute numbers
+2018,Meghalaya,74,value in absolute numbers
+2018,Mizoram,6,value in absolute numbers
+2018,Nagaland,2,value in absolute numbers
+2018,Odisha,843,value in absolute numbers
+2018,Punjab,239,value in absolute numbers
+2018,Rajasthan,1104,value in absolute numbers
+2018,Sikkim,1,value in absolute numbers
+2018,Tamil Nadu,295,value in absolute numbers
+2018,Telangana,1205,value in absolute numbers
+2018,Tripura,20,value in absolute numbers
+2018,Uttar Pradesh,6280,value in absolute numbers
+2018,Uttarakhand,171,value in absolute numbers
+2018,West Bengal,335,value in absolute numbers
+2018,All States,26931,value in absolute numbers
+2018,Andaman and Nicobar Islands,7,value in absolute numbers
+2018,Chandigarh,30,value in absolute numbers
+2018,Dadra and Nagar Haveli and Daman and Diu,0,value in absolute numbers
+2018,Delhi,189,value in absolute numbers
+2018,Jammu and Kashmir,73,value in absolute numbers
+2018,Lakshadweep,4,value in absolute numbers
+2018,Puducherry,14,value in absolute numbers
+2018,All UTs,317,value in absolute numbers
+2018,All India,27248,value in absolute numbers
+2017,Andhra Pradesh,931,value in absolute numbers
+2017,Arunachal Pradesh,1,value in absolute numbers
+2017,Assam,1120,value in absolute numbers
+2017,Bihar,433,value in absolute numbers
+2017,Chhattisgarh,171,value in absolute numbers
+2017,Goa,13,value in absolute numbers
+2017,Gujarat,458,value in absolute numbers
+2017,Haryana,504,value in absolute numbers
+2017,Himachal Pradesh,56,value in absolute numbers
+2017,Jammu and Kashmir,63,value in absolute numbers
+2017,Jharkhand,720,value in absolute numbers
+2017,Karnataka,3174,value in absolute numbers
+2017,Kerala,320,value in absolute numbers
+2017,Madhya Pradesh,490,value in absolute numbers
+2017,Maharashtra,3604,value in absolute numbers
+2017,Manipur,74,value in absolute numbers
+2017,Meghalaya,39,value in absolute numbers
+2017,Mizoram,10,value in absolute numbers
+2017,Nagaland,0,value in absolute numbers
+2017,Odisha,824,value in absolute numbers
+2017,Punjab,176,value in absolute numbers
+2017,Rajasthan,1304,value in absolute numbers
+2017,Sikkim,1,value in absolute numbers
+2017,Tamil Nadu,228,value in absolute numbers
+2017,Telangana,1209,value in absolute numbers
+2017,Tripura,7,value in absolute numbers
+2017,Uttar Pradesh,4971,value in absolute numbers
+2017,Uttarakhand,124,value in absolute numbers
+2017,West Bengal,568,value in absolute numbers
+2017,All States,21593,value in absolute numbers
+2017,Andaman and Nicobar Islands,3,value in absolute numbers
+2017,Chandigarh,32,value in absolute numbers
+2017,Dadra and Nagar Haveli,1,value in absolute numbers
+2017,Daman and Diu,0,value in absolute numbers
+2017,Delhi,162,value in absolute numbers
+2017,Lakshadweep,0,value in absolute numbers
+2017,Puducherry,5,value in absolute numbers
+2017,All UTs,203,value in absolute numbers
+2017,All India,21796,value in absolute numbers
+2016,Andhra Pradesh,616,value in absolute numbers
+2016,Arunachal Pradesh,4,value in absolute numbers
+2016,Assam,696,value in absolute numbers
+2016,Bihar,309,value in absolute numbers
+2016,Chhattisgarh,90,value in absolute numbers
+2016,Goa,31,value in absolute numbers
+2016,Gujarat,362,value in absolute numbers
+2016,Haryana,401,value in absolute numbers
+2016,Himachal Pradesh,31,value in absolute numbers
+2016,Jammu and Kashmir,28,value in absolute numbers
+2016,Jharkhand,259,value in absolute numbers
+2016,Karnataka,1101,value in absolute numbers
+2016,Kerala,283,value in absolute numbers
+2016,Madhya Pradesh,258,value in absolute numbers
+2016,Maharashtra,2380,value in absolute numbers
+2016,Manipur,11,value in absolute numbers
+2016,Meghalaya,39,value in absolute numbers
+2016,Mizoram,1,value in absolute numbers
+2016,Nagaland,2,value in absolute numbers
+2016,Odisha,317,value in absolute numbers
+2016,Punjab,102,value in absolute numbers
+2016,Rajasthan,941,value in absolute numbers
+2016,Sikkim,1,value in absolute numbers
+2016,Tamil Nadu,144,value in absolute numbers
+2016,Telangana,593,value in absolute numbers
+2016,Tripura,8,value in absolute numbers
+2016,Uttar Pradesh,2639,value in absolute numbers
+2016,Uttarakhand,62,value in absolute numbers
+2016,West Bengal,478,value in absolute numbers
+2016,All States,12187,value in absolute numbers
+2016,Andaman and Nicobar Islands,3,value in absolute numbers
+2016,Chandigarh,26,value in absolute numbers
+2016,Dadra and Nagar Haveli,1,value in absolute numbers
+2016,Daman and Diu,0,value in absolute numbers
+2016,Delhi,98,value in absolute numbers
+2016,Lakshadweep,0,value in absolute numbers
+2016,Puducherry,2,value in absolute numbers
+2016,All UTs,130,value in absolute numbers
+2016,All India,12317,value in absolute numbers
+2015,Andhra Pradesh,536,value in absolute numbers
+2015,Arunachal Pradesh,6,value in absolute numbers
+2015,Assam,483,value in absolute numbers
+2015,Bihar,242,value in absolute numbers
+2015,Chhattisgarh,103,value in absolute numbers
+2015,Goa,17,value in absolute numbers
+2015,Gujarat,242,value in absolute numbers
+2015,Haryana,224,value in absolute numbers
+2015,Himachal Pradesh,50,value in absolute numbers
+2015,Jammu and Kashmir,34,value in absolute numbers
+2015,Jharkhand,180,value in absolute numbers
+2015,Karnataka,1447,value in absolute numbers
+2015,Kerala,290,value in absolute numbers
+2015,Madhya Pradesh,231,value in absolute numbers
+2015,Maharashtra,2195,value in absolute numbers
+2015,Manipur,6,value in absolute numbers
+2015,Meghalaya,56,value in absolute numbers
+2015,Mizoram,8,value in absolute numbers
+2015,Nagaland,0,value in absolute numbers
+2015,Odisha,386,value in absolute numbers
+2015,Punjab,149,value in absolute numbers
+2015,Rajasthan,949,value in absolute numbers
+2015,Sikkim,1,value in absolute numbers
+2015,Tamil Nadu,142,value in absolute numbers
+2015,Telangana,687,value in absolute numbers
+2015,Tripura,13,value in absolute numbers
+2015,Uttar Pradesh,2208,value in absolute numbers
+2015,Uttarakhand,48,value in absolute numbers
+2015,West Bengal,398,value in absolute numbers
+2015,All States,11331,value in absolute numbers
+2015,Andaman and Nicobar Islands,6,value in absolute numbers
+2015,Chandigarh,77,value in absolute numbers
+2015,Dadra and Nagar Haveli,0,value in absolute numbers
+2015,Daman and Diu,1,value in absolute numbers
+2015,Delhi,177,value in absolute numbers
+2015,Lakshadweep,0,value in absolute numbers
+2015,Puducherry,0,value in absolute numbers
+2015,All UTs,261,value in absolute numbers
+2015,All India,11592,value in absolute numbers
+2014,Andhra Pradesh,282,value in absolute numbers
+2014,Arunachal Pradesh,18,value in absolute numbers
+2014,Assam,379,value in absolute numbers
+2014,Bihar,114,value in absolute numbers
+2014,Chhattisgarh,123,value in absolute numbers
+2014,Goa,62,value in absolute numbers
+2014,Gujarat,227,value in absolute numbers
+2014,Haryana,151,value in absolute numbers
+2014,Himachal Pradesh,38,value in absolute numbers
+2014,Jammu and Kashmir,37,value in absolute numbers
+2014,Jharkhand,93,value in absolute numbers
+2014,Karnataka,1020,value in absolute numbers
+2014,Kerala,450,value in absolute numbers
+2014,Madhya Pradesh,289,value in absolute numbers
+2014,Maharashtra,1879,value in absolute numbers
+2014,Manipur,13,value in absolute numbers
+2014,Meghalaya,60,value in absolute numbers
+2014,Mizoram,22,value in absolute numbers
+2014,Nagaland,0,value in absolute numbers
+2014,Odisha,124,value in absolute numbers
+2014,Punjab,226,value in absolute numbers
+2014,Rajasthan,697,value in absolute numbers
+2014,Sikkim,4,value in absolute numbers
+2014,Tamil Nadu,172,value in absolute numbers
+2014,Telangana,703,value in absolute numbers
+2014,Tripura,5,value in absolute numbers
+2014,Uttar Pradesh,1737,value in absolute numbers
+2014,Uttarakhand,42,value in absolute numbers
+2014,West Bengal,355,value in absolute numbers
+2014,All States,9322,value in absolute numbers
+2014,Andaman and Nicobar Islands,13,value in absolute numbers
+2014,Chandigarh,55,value in absolute numbers
+2014,Dadra and Nagar Haveli,3,value in absolute numbers
+2014,Daman and Diu,1,value in absolute numbers
+2014,Delhi,226,value in absolute numbers
+2014,Lakshadweep,1,value in absolute numbers
+2014,Puducherry,1,value in absolute numbers
+2014,All UTs,300,value in absolute numbers
+2014,All India,9622,value in absolute numbers
+2013,Andhra Pradesh,651,value in absolute numbers
+2013,Arunachal Pradesh,10,value in absolute numbers
+2013,Assam,154,value in absolute numbers
+2013,Bihar,139,value in absolute numbers
+2013,Chhattisgarh,101,value in absolute numbers
+2013,Goa,58,value in absolute numbers
+2013,Gujarat,77,value in absolute numbers
+2013,Haryana,323,value in absolute numbers
+2013,Himachal Pradesh,28,value in absolute numbers
+2013,Jammu and Kashmir,46,value in absolute numbers
+2013,Jharkhand,26,value in absolute numbers
+2013,Karnataka,533,value in absolute numbers
+2013,Kerala,383,value in absolute numbers
+2013,Madhya Pradesh,342,value in absolute numbers
+2013,Maharashtra,907,value in absolute numbers
+2013,Manipur,1,value in absolute numbers
+2013,Meghalaya,17,value in absolute numbers
+2013,Mizoram,0,value in absolute numbers
+2013,Nagaland,0,value in absolute numbers
+2013,Odisha,104,value in absolute numbers
+2013,Punjab,156,value in absolute numbers
+2013,Rajasthan,297,value in absolute numbers
+2013,Sikkim,0,value in absolute numbers
+2013,Tamil Nadu,90,value in absolute numbers
+2013,Tripura,14,value in absolute numbers
+2013,Uttar Pradesh,682,value in absolute numbers
+2013,Uttarakhand,27,value in absolute numbers
+2013,West Bengal,342,value in absolute numbers
+2013,All States,5508,value in absolute numbers
+2013,Andaman and Nicobar Islands,18,value in absolute numbers
+2013,Chandigarh,11,value in absolute numbers
+2013,Dadra and Nagar Haveli,0,value in absolute numbers
+2013,Daman and Diu,1,value in absolute numbers
+2013,Delhi,150,value in absolute numbers
+2013,Lakshadweep,0,value in absolute numbers
+2013,Puducherry,5,value in absolute numbers
+2013,All UTs,185,value in absolute numbers
+2013,All India,5693,value in absolute numbers
+2012,Andhra Pradesh,454,value in absolute numbers
+2012,Arunachal Pradesh,12,value in absolute numbers
+2012,Assam,28,value in absolute numbers
+2012,Bihar,30,value in absolute numbers
+2012,Chhattisgarh,59,value in absolute numbers
+2012,Goa,32,value in absolute numbers
+2012,Gujarat,78,value in absolute numbers
+2012,Haryana,182,value in absolute numbers
+2012,Himachal Pradesh,20,value in absolute numbers
+2012,Jammu and Kashmir,35,value in absolute numbers
+2012,Jharkhand,35,value in absolute numbers
+2012,Karnataka,437,value in absolute numbers
+2012,Kerala,312,value in absolute numbers
+2012,Madhya Pradesh,197,value in absolute numbers
+2012,Maharashtra,561,value in absolute numbers
+2012,Manipur,0,value in absolute numbers
+2012,Meghalaya,6,value in absolute numbers
+2012,Mizoram,0,value in absolute numbers
+2012,Nagaland,0,value in absolute numbers
+2012,Odisha,27,value in absolute numbers
+2012,Punjab,78,value in absolute numbers
+2012,Rajasthan,154,value in absolute numbers
+2012,Sikkim,0,value in absolute numbers
+2012,Tamil Nadu,41,value in absolute numbers
+2012,Tripura,14,value in absolute numbers
+2012,Uttar Pradesh,249,value in absolute numbers
+2012,Uttarakhand,4,value in absolute numbers
+2012,West Bengal,309,value in absolute numbers
+2012,All States,3354,value in absolute numbers
+2012,Andaman and Nicobar Islands,2,value in absolute numbers
+2012,Chandigarh,33,value in absolute numbers
+2012,Dadra and Nagar Haveli,0,value in absolute numbers
+2012,Daman and Diu,0,value in absolute numbers
+2012,Delhi,84,value in absolute numbers
+2012,Lakshadweep,0,value in absolute numbers
+2012,Puducherry,4,value in absolute numbers
+2012,All UTs,123,value in absolute numbers
+2012,All India,3477,value in absolute numbers
+2011,Andhra Pradesh,372,value in absolute numbers
+2011,Arunachal Pradesh,14,value in absolute numbers
+2011,Assam,31,value in absolute numbers
+2011,Bihar,38,value in absolute numbers
+2011,Chhattisgarh,78,value in absolute numbers
+2011,Goa,18,value in absolute numbers
+2011,Gujarat,67,value in absolute numbers
+2011,Haryana,45,value in absolute numbers
+2011,Himachal Pradesh,12,value in absolute numbers
+2011,Jammu and Kashmir,14,value in absolute numbers
+2011,Jharkhand,33,value in absolute numbers
+2011,Karnataka,160,value in absolute numbers
+2011,Kerala,245,value in absolute numbers
+2011,Madhya Pradesh,103,value in absolute numbers
+2011,Maharashtra,393,value in absolute numbers
+2011,Manipur,0,value in absolute numbers
+2011,Meghalaya,6,value in absolute numbers
+2011,Mizoram,3,value in absolute numbers
+2011,Nagaland,0,value in absolute numbers
+2011,Odisha,12,value in absolute numbers
+2011,Punjab,79,value in absolute numbers
+2011,Rajasthan,146,value in absolute numbers
+2011,Sikkim,4,value in absolute numbers
+2011,Tamil Nadu,45,value in absolute numbers
+2011,Tripura,0,value in absolute numbers
+2011,Uttar Pradesh,114,value in absolute numbers
+2011,Uttarakhand,6,value in absolute numbers
+2011,West Bengal,57,value in absolute numbers
+2011,All States,2095,value in absolute numbers
+2011,Andaman and Nicobar Islands,0,value in absolute numbers
+2011,Chandigarh,10,value in absolute numbers
+2011,Dadra and Nagar Haveli,6,value in absolute numbers
+2011,Daman and Diu,1,value in absolute numbers
+2011,Delhi,99,value in absolute numbers
+2011,Lakshadweep,0,value in absolute numbers
+2011,Puducherry,2,value in absolute numbers
+2011,All UTs,118,value in absolute numbers
+2011,All India,2213,value in absolute numbers
+2010,Andhra Pradesh,171,value in absolute numbers
+2010,Arunachal Pradesh,3,value in absolute numbers
+2010,Assam,18,value in absolute numbers
+2010,Bihar,2,value in absolute numbers
+2010,Chhattisgarh,50,value in absolute numbers
+2010,Goa,16,value in absolute numbers
+2010,Gujarat,55,value in absolute numbers
+2010,Haryana,1,value in absolute numbers
+2010,Himachal Pradesh,17,value in absolute numbers
+2010,Jammu and Kashmir,6,value in absolute numbers
+2010,Jharkhand,0,value in absolute numbers
+2010,Karnataka,176,value in absolute numbers
+2010,Kerala,156,value in absolute numbers
+2010,Madhya Pradesh,35,value in absolute numbers
+2010,Maharashtra,246,value in absolute numbers
+2010,Manipur,0,value in absolute numbers
+2010,Meghalaya,0,value in absolute numbers
+2010,Mizoram,2,value in absolute numbers
+2010,Nagaland,0,value in absolute numbers
+2010,Odisha,12,value in absolute numbers
+2010,Punjab,68,value in absolute numbers
+2010,Rajasthan,55,value in absolute numbers
+2010,Sikkim,0,value in absolute numbers
+2010,Tamil Nadu,77,value in absolute numbers
+2010,Tripura,0,value in absolute numbers
+2010,Uttar Pradesh,41,value in absolute numbers
+2010,Uttarakhand,11,value in absolute numbers
+2010,West Bengal,60,value in absolute numbers
+2010,All States,1278,value in absolute numbers
+2010,Andaman and Nicobar Islands,0,value in absolute numbers
+2010,Chandigarh,3,value in absolute numbers
+2010,Dadra and Nagar Haveli,0,value in absolute numbers
+2010,Daman and Diu,0,value in absolute numbers
+2010,Delhi,41,value in absolute numbers
+2010,Lakshadweep,0,value in absolute numbers
+2010,Puducherry,0,value in absolute numbers
+2010,All UTs,44,value in absolute numbers
+2010,All India,1322,value in absolute numbers
+2009,Andhra Pradesh,38,value in absolute numbers
+2009,Arunachal Pradesh,1,value in absolute numbers
+2009,Assam,4,value in absolute numbers
+2009,Bihar,0,value in absolute numbers
+2009,Chhattisgarh,50,value in absolute numbers
+2009,Goa,12,value in absolute numbers
+2009,Gujarat,36,value in absolute numbers
+2009,Haryana,0,value in absolute numbers
+2009,Himachal Pradesh,6,value in absolute numbers
+2009,Jammu and Kashmir,0,value in absolute numbers
+2009,Jharkhand,0,value in absolute numbers
+2009,Karnataka,97,value in absolute numbers
+2009,Kerala,71,value in absolute numbers
+2009,Madhya Pradesh,17,value in absolute numbers
+2009,Maharashtra,161,value in absolute numbers
+2009,Manipur,1,value in absolute numbers
+2009,Meghalaya,0,value in absolute numbers
+2009,Mizoram,0,value in absolute numbers
+2009,Nagaland,0,value in absolute numbers
+2009,Odisha,13,value in absolute numbers
+2009,Punjab,56,value in absolute numbers
+2009,Rajasthan,28,value in absolute numbers
+2009,Sikkim,0,value in absolute numbers
+2009,Tamil Nadu,37,value in absolute numbers
+2009,Tripura,0,value in absolute numbers
+2009,Uttar Pradesh,17,value in absolute numbers
+2009,Uttarakhand,7,value in absolute numbers
+2009,West Bengal,23,value in absolute numbers
+2009,All States,675,value in absolute numbers
+2009,Andaman and Nicobar Islands,0,value in absolute numbers
+2009,Chandigarh,4,value in absolute numbers
+2009,Dadra and Nagar Haveli,0,value in absolute numbers
+2009,Daman and Diu,0,value in absolute numbers
+2009,Delhi,17,value in absolute numbers
+2009,Lakshadweep,0,value in absolute numbers
+2009,Puducherry,0,value in absolute numbers
+2009,All UTs,21,value in absolute numbers
+2009,All India,696,value in absolute numbers
+2008,Andhra Pradesh,103,value in absolute numbers
+2008,Arunachal Pradesh,0,value in absolute numbers
+2008,Assam,2,value in absolute numbers
+2008,Bihar,0,value in absolute numbers
+2008,Chhattisgarh,20,value in absolute numbers
+2008,Goa,6,value in absolute numbers
+2008,Gujarat,33,value in absolute numbers
+2008,Haryana,0,value in absolute numbers
+2008,Himachal Pradesh,6,value in absolute numbers
+2008,Jammu and Kashmir,0,value in absolute numbers
+2008,Jharkhand,0,value in absolute numbers
+2008,Karnataka,57,value in absolute numbers
+2008,Kerala,67,value in absolute numbers
+2008,Madhya Pradesh,11,value in absolute numbers
+2008,Maharashtra,39,value in absolute numbers
+2008,Manipur,0,value in absolute numbers
+2008,Meghalaya,0,value in absolute numbers
+2008,Mizoram,0,value in absolute numbers
+2008,Nagaland,0,value in absolute numbers
+2008,Odisha,15,value in absolute numbers
+2008,Punjab,47,value in absolute numbers
+2008,Rajasthan,4,value in absolute numbers
+2008,Sikkim,0,value in absolute numbers
+2008,Tamil Nadu,25,value in absolute numbers
+2008,Tripura,0,value in absolute numbers
+2008,Uttar Pradesh,2,value in absolute numbers
+2008,Uttarakhand,2,value in absolute numbers
+2008,West Bengal,2,value in absolute numbers
+2008,All States,441,value in absolute numbers
+2008,Andaman and Nicobar Islands,1,value in absolute numbers
+2008,Chandigarh,9,value in absolute numbers
+2008,Dadra and Nagar Haveli,0,value in absolute numbers
+2008,Daman and Diu,0,value in absolute numbers
+2008,Delhi,12,value in absolute numbers
+2008,Lakshadweep,0,value in absolute numbers
+2008,Puducherry,1,value in absolute numbers
+2008,All UTs,23,value in absolute numbers
+2008,All India,464,value in absolute numbers
+2007,Andhra Pradesh,69,value in absolute numbers
+2007,Arunachal Pradesh,0,value in absolute numbers
+2007,Assam,0,value in absolute numbers
+2007,Bihar,0,value in absolute numbers
+2007,Chhattisgarh,57,value in absolute numbers
+2007,Goa,4,value in absolute numbers
+2007,Gujarat,3,value in absolute numbers
+2007,Haryana,1,value in absolute numbers
+2007,Himachal Pradesh,0,value in absolute numbers
+2007,Jammu and Kashmir,0,value in absolute numbers
+2007,Jharkhand,0,value in absolute numbers
+2007,Karnataka,41,value in absolute numbers
+2007,Kerala,38,value in absolute numbers
+2007,Madhya Pradesh,164,value in absolute numbers
+2007,Maharashtra,50,value in absolute numbers
+2007,Manipur,0,value in absolute numbers
+2007,Meghalaya,0,value in absolute numbers
+2007,Mizoram,0,value in absolute numbers
+2007,Nagaland,0,value in absolute numbers
+2007,Odisha,2,value in absolute numbers
+2007,Punjab,49,value in absolute numbers
+2007,Rajasthan,16,value in absolute numbers
+2007,Sikkim,0,value in absolute numbers
+2007,Tamil Nadu,15,value in absolute numbers
+2007,Tripura,0,value in absolute numbers
+2007,Uttar Pradesh,5,value in absolute numbers
+2007,Uttarakhand,1,value in absolute numbers
+2007,West Bengal,4,value in absolute numbers
+2007,All States,519,value in absolute numbers
+2007,Andaman and Nicobar Islands,11,value in absolute numbers
+2007,Chandigarh,1,value in absolute numbers
+2007,Dadra and Nagar Haveli,0,value in absolute numbers
+2007,Daman and Diu,0,value in absolute numbers
+2007,Delhi,25,value in absolute numbers
+2007,Lakshadweep,0,value in absolute numbers
+2007,Puducherry,0,value in absolute numbers
+2007,All UTs,37,value in absolute numbers
+2007,All India,556,value in absolute numbers
+2006,Andhra Pradesh,116,value in absolute numbers
+2006,Arunachal Pradesh,0,value in absolute numbers
+2006,Assam,1,value in absolute numbers
+2006,Bihar,0,value in absolute numbers
+2006,Chhattisgarh,30,value in absolute numbers
+2006,Goa,0,value in absolute numbers
+2006,Gujarat,6,value in absolute numbers
+2006,Haryana,2,value in absolute numbers
+2006,Himachal Pradesh,0,value in absolute numbers
+2006,Jammu and Kashmir,0,value in absolute numbers
+2006,Jharkhand,0,value in absolute numbers
+2006,Karnataka,27,value in absolute numbers
+2006,Kerala,12,value in absolute numbers
+2006,Madhya Pradesh,131,value in absolute numbers
+2006,Maharashtra,39,value in absolute numbers
+2006,Manipur,0,value in absolute numbers
+2006,Meghalaya,2,value in absolute numbers
+2006,Mizoram,0,value in absolute numbers
+2006,Nagaland,0,value in absolute numbers
+2006,Odisha,0,value in absolute numbers
+2006,Punjab,38,value in absolute numbers
+2006,Rajasthan,4,value in absolute numbers
+2006,Sikkim,0,value in absolute numbers
+2006,Tamil Nadu,8,value in absolute numbers
+2006,Tripura,0,value in absolute numbers
+2006,Uttar Pradesh,0,value in absolute numbers
+2006,Uttarakhand,3,value in absolute numbers
+2006,West Bengal,9,value in absolute numbers
+2006,All States,428,value in absolute numbers
+2006,Andaman and Nicobar Islands,11,value in absolute numbers
+2006,Chandigarh,2,value in absolute numbers
+2006,Dadra and Nagar Haveli,0,value in absolute numbers
+2006,Daman and Diu,0,value in absolute numbers
+2006,Delhi,12,value in absolute numbers
+2006,Lakshadweep,0,value in absolute numbers
+2006,Puducherry,0,value in absolute numbers
+2006,All UTs,25,value in absolute numbers
+2006,All India,453,value in absolute numbers
+2005,Andhra Pradesh,82,value in absolute numbers
+2005,Arunachal Pradesh,0,value in absolute numbers
+2005,Assam,1,value in absolute numbers
+2005,Bihar,0,value in absolute numbers
+2005,Chhattisgarh,46,value in absolute numbers
+2005,Goa,0,value in absolute numbers
+2005,Gujarat,155,value in absolute numbers
+2005,Haryana,9,value in absolute numbers
+2005,Himachal Pradesh,0,value in absolute numbers
+2005,Jammu and Kashmir,0,value in absolute numbers
+2005,Jharkhand,0,value in absolute numbers
+2005,Karnataka,38,value in absolute numbers
+2005,Kerala,3,value in absolute numbers
+2005,Madhya Pradesh,0,value in absolute numbers
+2005,Maharashtra,27,value in absolute numbers
+2005,Manipur,0,value in absolute numbers
+2005,Meghalaya,0,value in absolute numbers
+2005,Mizoram,0,value in absolute numbers
+2005,Nagaland,0,value in absolute numbers
+2005,Odisha,6,value in absolute numbers
+2005,Punjab,50,value in absolute numbers
+2005,Rajasthan,18,value in absolute numbers
+2005,Sikkim,0,value in absolute numbers
+2005,Tamil Nadu,22,value in absolute numbers
+2005,Tripura,0,value in absolute numbers
+2005,Uttar Pradesh,4,value in absolute numbers
+2005,Uttarakhand,0,value in absolute numbers
+2005,West Bengal,0,value in absolute numbers
+2005,All States,461,value in absolute numbers
+2005,Andaman and Nicobar Islands,0,value in absolute numbers
+2005,Chandigarh,2,value in absolute numbers
+2005,Dadra and Nagar Haveli,0,value in absolute numbers
+2005,Daman and Diu,0,value in absolute numbers
+2005,Delhi,18,value in absolute numbers
+2005,Lakshadweep,0,value in absolute numbers
+2005,Puducherry,0,value in absolute numbers
+2005,All UTs,20,value in absolute numbers
+2005,All India,481,value in absolute numbers
+2004,Andhra Pradesh,101,value in absolute numbers
+2004,Arunachal Pradesh,0,value in absolute numbers
+2004,Assam,0,value in absolute numbers
+2004,Bihar,0,value in absolute numbers
+2004,Chhattisgarh,0,value in absolute numbers
+2004,Goa,0,value in absolute numbers
+2004,Gujarat,126,value in absolute numbers
+2004,Haryana,0,value in absolute numbers
+2004,Himachal Pradesh,0,value in absolute numbers
+2004,Jammu and Kashmir,1,value in absolute numbers
+2004,Jharkhand,0,value in absolute numbers
+2004,Karnataka,14,value in absolute numbers
+2004,Kerala,2,value in absolute numbers
+2004,Madhya Pradesh,0,value in absolute numbers
+2004,Maharashtra,21,value in absolute numbers
+2004,Manipur,0,value in absolute numbers
+2004,Meghalaya,0,value in absolute numbers
+2004,Mizoram,0,value in absolute numbers
+2004,Nagaland,0,value in absolute numbers
+2004,Odisha,1,value in absolute numbers
+2004,Punjab,6,value in absolute numbers
+2004,Rajasthan,0,value in absolute numbers
+2004,Sikkim,0,value in absolute numbers
+2004,Tamil Nadu,50,value in absolute numbers
+2004,Tripura,0,value in absolute numbers
+2004,Uttar Pradesh,5,value in absolute numbers
+2004,Uttarakhand,0,value in absolute numbers
+2004,West Bengal,0,value in absolute numbers
+2004,All States,327,value in absolute numbers
+2004,Andaman and Nicobar Islands,5,value in absolute numbers
+2004,Chandigarh,1,value in absolute numbers
+2004,Dadra and Nagar Haveli,0,value in absolute numbers
+2004,Daman and Diu,0,value in absolute numbers
+2004,Delhi,14,value in absolute numbers
+2004,Lakshadweep,0,value in absolute numbers
+2004,Puducherry,0,value in absolute numbers
+2004,All UTs,20,value in absolute numbers
+2004,All India,347,value in absolute numbers
+2003,Andhra Pradesh,221,value in absolute numbers
+2003,Arunachal Pradesh,0,value in absolute numbers
+2003,Assam,0,value in absolute numbers
+2003,Bihar,0,value in absolute numbers
+2003,Chhattisgarh,0,value in absolute numbers
+2003,Goa,2,value in absolute numbers
+2003,Gujarat,29,value in absolute numbers
+2003,Haryana,1,value in absolute numbers
+2003,Himachal Pradesh,87,value in absolute numbers
+2003,Jammu and Kashmir,0,value in absolute numbers
+2003,Jharkhand,0,value in absolute numbers
+2003,Karnataka,8,value in absolute numbers
+2003,Kerala,1,value in absolute numbers
+2003,Madhya Pradesh,0,value in absolute numbers
+2003,Maharashtra,17,value in absolute numbers
+2003,Manipur,0,value in absolute numbers
+2003,Meghalaya,0,value in absolute numbers
+2003,Mizoram,0,value in absolute numbers
+2003,Nagaland,0,value in absolute numbers
+2003,Odisha,5,value in absolute numbers
+2003,Punjab,63,value in absolute numbers
+2003,Rajasthan,0,value in absolute numbers
+2003,Sikkim,0,value in absolute numbers
+2003,Tamil Nadu,10,value in absolute numbers
+2003,Tripura,0,value in absolute numbers
+2003,Uttar Pradesh,5,value in absolute numbers
+2003,Uttarakhand,1,value in absolute numbers
+2003,West Bengal,0,value in absolute numbers
+2003,All States,450,value in absolute numbers
+2003,Andaman and Nicobar Islands,16,value in absolute numbers
+2003,Chandigarh,1,value in absolute numbers
+2003,Dadra and Nagar Haveli,0,value in absolute numbers
+2003,Daman and Diu,,
+2003,Delhi,4,value in absolute numbers
+2003,Lakshadweep,0,value in absolute numbers
+2003,Puducherry,0,value in absolute numbers
+2003,All UTs,21,value in absolute numbers
+2003,All India,471,value in absolute numbers
+2002,Andhra Pradesh,261,value in absolute numbers
+2002,Arunachal Pradesh,0,value in absolute numbers
+2002,Assam,2,value in absolute numbers
+2002,Bihar,0,value in absolute numbers
+2002,Chhattisgarh,0,value in absolute numbers
+2002,Goa,8,value in absolute numbers
+2002,Gujarat,250,value in absolute numbers
+2002,Haryana,2,value in absolute numbers
+2002,Himachal Pradesh,99,value in absolute numbers
+2002,Jammu and Kashmir,1,value in absolute numbers
+2002,Jharkhand,0,value in absolute numbers
+2002,Karnataka,15,value in absolute numbers
+2002,Kerala,4,value in absolute numbers
+2002,Madhya Pradesh,0,value in absolute numbers
+2002,Maharashtra,13,value in absolute numbers
+2002,Manipur,0,value in absolute numbers
+2002,Meghalaya,0,value in absolute numbers
+2002,Mizoram,0,value in absolute numbers
+2002,Nagaland,0,value in absolute numbers
+2002,Odisha,4,value in absolute numbers
+2002,Punjab,29,value in absolute numbers
+2002,Rajasthan,0,value in absolute numbers
+2002,Sikkim,0,value in absolute numbers
+2002,Tamil Nadu,3,value in absolute numbers
+2002,Tripura,0,value in absolute numbers
+2002,Uttar Pradesh,86,value in absolute numbers
+2002,Uttarakhand,0,value in absolute numbers
+2002,West Bengal,0,value in absolute numbers
+2002,All States,777,value in absolute numbers
+2002,Andaman and Nicobar Islands,15,value in absolute numbers
+2002,Chandigarh,2,value in absolute numbers
+2002,Dadra and Nagar Haveli,0,value in absolute numbers
+2002,Daman and Diu,7,value in absolute numbers
+2002,Delhi,7,value in absolute numbers
+2002,Lakshadweep,0,value in absolute numbers
+2002,Puducherry,0,value in absolute numbers
+2002,All UTs,31,value in absolute numbers
+2002,All India,808,value in absolute numbers
