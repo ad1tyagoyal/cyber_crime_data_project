@@ -8,8 +8,14 @@ class Log(object):
 
     def __new__(cls):
         if not hasattr(cls, 'instance'):
-            cls.logger_instance = super(Logger, cls).__new__(cls)
+            cls.logger_instance = super(Log, cls).__new__(cls)
         return cls.logger_instance
+
+    @staticmethod
+    def get_instance():
+        if not Log.logger_instance:
+            Log.logger_instance = Log()
+        return Log.logger_instance
 
     @staticmethod
     def setup_logger():
